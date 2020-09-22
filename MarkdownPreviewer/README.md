@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Front End Libraries Project - Build a Markdown  Previewer
 
-- ```npx create-react-app markdown-previewer ```
-- cd markdown-previewer
-- npm install marked --save
-- npm install react-bootstrap --save
-- npm install
-- npm start (launches react app on local host)
+- ```npx create-react-app markdown-previewer ``` (creates new react-app with file name markdown-previewer)
+- ```cd markdown-previewer``` (change directory)
+- ```npm install marked --save``` (install marked for converting markdown)
+- ```npm install react-bootstrap --save``` (install bootstrap for react)
+- ```npm install```
+- ```npm start (launches react app on local host)```
